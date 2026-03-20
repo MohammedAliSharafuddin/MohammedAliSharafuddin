@@ -2,39 +2,31 @@
 
 Current affiliation: Senior Lecturer, Villa College, Malé, Maldives.
 
-This profile focuses on practical work in management, marketing, statistics,
-and reproducible teaching. The active public repositories here are the ones
-that best represent the current direction of the work.
+This profile highlights current public work in management education, marketing
+decision tools, browser-based utilities, and reproducible publishing.
 
-## Current Focus
+## Active Public Projects
 
-- Open teaching materials for management and statistics
-- Practical marketing decision tools and templates
+| Project | Focus | Live |
+| --- | --- | --- |
+| [mohamedalis.github.io](https://github.com/MohamedaliS/mohamedalis.github.io) | public website and resource hub | <https://mohamedalis.github.io/> |
+| [dmm-site](https://github.com/MohamedaliS/dmm-site) | public site for Decision Making for Management and the DDMM Suite outputs | <https://mohamedalis.github.io/DDMM_Suite/site/> |
+| [marketing-decision-toolkit](https://github.com/MohamedaliS/marketing-decision-toolkit) | Excel tools for planning, forecasting, and marketing analysis | <https://github.com/MohamedaliS/marketing-decision-toolkit> |
+| [price-memory](https://github.com/MohamedaliS/price-memory) | personal grocery price tracker built with vanilla JavaScript and IndexedDB | <https://mohamedalis.github.io/price-memory/> |
+| [margin-guard](https://github.com/MohamedaliS/margin-guard) | promotion break-even calculator for pricing decisions | <https://mohamedalis.github.io/margin-guard/> |
+
+## Working Areas
+
+- Management statistics and decision-making teaching materials
+- Marketing analytics tools and reusable templates
 - Lightweight browser-based decision-support apps
-- Reproducible publishing workflows with Quarto, R, and GitHub Pages
+- Reproducible publishing with Quarto, R, and GitHub Pages
 
-## Selected Public Projects
-
-- [mohamedalis.github.io](https://github.com/MohamedaliS/mohamedalis.github.io):
-  public website and resource hub
-- [dmm-site](https://github.com/MohamedaliS/dmm-site):
-  public course site for Decision Making for Management
-- [marketing-decision-toolkit](https://github.com/MohamedaliS/marketing-decision-toolkit):
-  downloadable Excel tools for planning, forecasting, and marketing analysis
-- [price-memory](https://github.com/MohamedaliS/price-memory):
-  local grocery price tracker built with vanilla JavaScript and IndexedDB
-- [margin-guard](https://github.com/MohamedaliS/margin-guard):
-  promotion break-even calculator for pricing decisions
-
-## Public Links
+## Links
 
 - Website: <https://mohamedalis.github.io/>
 - Google Scholar: <https://scholar.google.com/citations?hl=en&user=DgaDtq4AAAAJ>
 - ORCID: <https://orcid.org/0000-0001-5247-2964>
 
-## Notes
-
-- Older experiments, duplicates, and off-profile repositories are archived to
-  keep the public profile focused.
-- Private source repositories remain separate where they support active
-  teaching and research work.
+Older experiments, duplicates, and off-profile repositories are archived or
+kept private so the public profile stays focused on current work.
