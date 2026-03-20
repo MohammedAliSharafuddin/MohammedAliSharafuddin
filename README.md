@@ -11,6 +11,7 @@ decision tools, browser-based utilities, and reproducible publishing.
 | --- | --- | --- |
 | [mohammedalisharafuddin.github.io](https://github.com/MohammedAliSharafuddin/mohammedalisharafuddin.github.io) | public website and resource hub | <https://mohammedalisharafuddin.github.io/> |
 | [flairmi-site](https://github.com/MohammedAliSharafuddin/flairmi-site) | public FlairMI site for marketing analytics, templates, and applied learning resources | <https://flairmi.com/> |
+| [ddmm-suite](https://github.com/MohammedAliSharafuddin/ddmm-suite) | public DDMM deployment for the textbook, companion site, slides, examples, and instructor resources | <https://mohammedalisharafuddin.github.io/ddmm-suite/> |
 | [marketing-decision-toolkit](https://github.com/MohammedAliSharafuddin/marketing-decision-toolkit) | Excel tools for planning, forecasting, and marketing analysis | <https://github.com/MohammedAliSharafuddin/marketing-decision-toolkit> |
 | [price-memory](https://github.com/MohammedAliSharafuddin/price-memory) | personal grocery price tracker built with vanilla JavaScript and IndexedDB | <https://mohammedalisharafuddin.github.io/price-memory/> |
 | [margin-guard](https://github.com/MohammedAliSharafuddin/margin-guard) | promotion break-even calculator for pricing decisions | <https://mohammedalisharafuddin.github.io/margin-guard/> |
