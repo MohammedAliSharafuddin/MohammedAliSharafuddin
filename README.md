@@ -9,11 +9,11 @@ decision tools, browser-based utilities, and reproducible publishing.
 
 | Project | Focus | Live |
 | --- | --- | --- |
-| [mohamedalis.github.io](https://github.com/MohamedaliS/mohamedalis.github.io) | public website and resource hub | <https://mohamedalis.github.io/> |
-| [dmm-site](https://github.com/MohamedaliS/dmm-site) | public site for Decision Making for Management and the DDMM Suite outputs | <https://mohamedalis.github.io/DDMM_Suite/site/> |
-| [marketing-decision-toolkit](https://github.com/MohamedaliS/marketing-decision-toolkit) | Excel tools for planning, forecasting, and marketing analysis | <https://github.com/MohamedaliS/marketing-decision-toolkit> |
-| [price-memory](https://github.com/MohamedaliS/price-memory) | personal grocery price tracker built with vanilla JavaScript and IndexedDB | <https://mohamedalis.github.io/price-memory/> |
-| [margin-guard](https://github.com/MohamedaliS/margin-guard) | promotion break-even calculator for pricing decisions | <https://mohamedalis.github.io/margin-guard/> |
+| [mohammedalisharafuddin.github.io](https://github.com/MohammedAliSharafuddin/mohammedalisharafuddin.github.io) | public website and resource hub | <https://mohammedalisharafuddin.github.io/> |
+| [dmm-site](https://github.com/MohammedAliSharafuddin/dmm-site) | public site for Decision Making for Management and the DDMM Suite outputs | <https://mohammedalisharafuddin.github.io/DDMM_Suite/site/> |
+| [marketing-decision-toolkit](https://github.com/MohammedAliSharafuddin/marketing-decision-toolkit) | Excel tools for planning, forecasting, and marketing analysis | <https://github.com/MohammedAliSharafuddin/marketing-decision-toolkit> |
+| [price-memory](https://github.com/MohammedAliSharafuddin/price-memory) | personal grocery price tracker built with vanilla JavaScript and IndexedDB | <https://mohammedalisharafuddin.github.io/price-memory/> |
+| [margin-guard](https://github.com/MohammedAliSharafuddin/margin-guard) | promotion break-even calculator for pricing decisions | <https://mohammedalisharafuddin.github.io/margin-guard/> |
 
 ## Working Areas
 
@@ -24,7 +24,7 @@ decision tools, browser-based utilities, and reproducible publishing.
 
 ## Links
 
-- Website: <https://mohamedalis.github.io/>
+- Website: <https://mohammedalisharafuddin.github.io/>
 - Google Scholar: <https://scholar.google.com/citations?hl=en&user=DgaDtq4AAAAJ>
 - ORCID: <https://orcid.org/0000-0001-5247-2964>
 
